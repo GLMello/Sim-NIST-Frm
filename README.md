@@ -46,7 +46,7 @@ Assim que entendi a situação, fiz um resumo breve do ataque, de maneira a inte
   <br/><br />
 <img src="https://i.imgur.com/hXDIByr.png" height="55%" width="55%" alt="Summary"/>
 <br /><br />
-Daqui em de ante, passei a seguir as instruções do framework e integrar cada passo em meu relatório:
+Daqui em diante, passei a seguir as instruções do framework e integrar cada passo em meu relatório:
 <br /><br />
 <img src="https://i.imgur.com/toAycts.png" height="55%" width="55%" alt="Report"/>
 <br /><br />
